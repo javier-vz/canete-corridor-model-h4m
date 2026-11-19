@@ -1,8 +1,6 @@
 # Changes from v1.0.x
 
-The tags [v1.0.0](https://github.com/javier-vz/canete-corridor-model/tree/v1.0.0) and
-[v1.0.1](https://github.com/javier-vz/canete-corridor-model/tree/v1.0.1) hold the code of the originally submitted
-version of the article.
+Versions v1.0.0 and v1.0.1 correspond to the earlier implementation used for the originally submitted article. Their historical code is not included in this repository.
 
 ## Model
 

@@ -11,7 +11,7 @@ authors:
     affiliation: Pontificia Universidad Católica del Perú
 version: "2.2.0-rc"
 license: MIT
-repository-code: "https://github.com/javier-vz/canete-corridor-model"
+repository-code: "https://github.com/javier-vz/usemos-canete-corridor-model-h4m"
 keywords:
   - archaeological prospection
   - unsupervised modelling

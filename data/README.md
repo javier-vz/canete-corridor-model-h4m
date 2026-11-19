@@ -59,11 +59,7 @@ authorisation from the Ministerio de Cultura.
 
 1. A table with `X`, `Y`, the three site columns, `altitud` and `pendiente` was prepared beforehand from the DEM and the
    site layers (`grilla_final_modelo_logistico.csv`, not included).
-2. The script `original_scripts/CA1.py` of release
-   [v1.0.0](https://github.com/javier-vz/canete-corridor-model/blob/v1.0.0/original_scripts/CA1.py) added the other six
-   columns: it clipped the HydroRIVERS v1.0 lines of South America to the grid extent plus 5 km, computed the distance
-   from each cell centre to their union and applied the normalisations above.
-
+2. The original script `CA1.py` from version v1.0.0 added the other six columns: it clipped the HydroRIVERS v1.0 lines of South America to the grid extent plus 5 km, computed the distance from each cell centre to their union and applied the normalisations above.
 [`code/check_grid_columns.py`](../code/check_grid_columns.py) (verification step 3) confirms these rules on the files of
 this folder: `altitud` equals the DEM pixel at every cell centre; `pendiente` equals the central-difference slope of that
 pixel (largest difference 7.7 × 10⁻⁶ degrees); `dist_river_m` equals the distance to the 81 lines (largest difference
