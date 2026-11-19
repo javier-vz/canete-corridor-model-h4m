@@ -1,0 +1,56 @@
+{
+ "fecha": "2026-11-06 09:34:34",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "F_norm_sum_check": 0.9999999999999999,
+  "auc": 0.8188293681936752,
+  "lcc_size": 159,
+  "m1": 0.9464285714285714,
+  "m2": 0.45784414951125796,
+  "m3": 0.0030593920011424683,
+  "n_clusters": 4,
+  "n_threshold": 168
+ },
+ "n_attractors": 22,
+ "n_pairs": 78,
+ "runtime_s": 239.96,
+ "spec": {
+  "block": "CTRL",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.1,
+    0.2,
+    0.5,
+    0.2
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.975,
+   "rules": "v2",
+   "slope": null
+  },
+  "cost": null,
+  "eps": 0.15,
+  "expect": [
+   22,
+   78
+  ],
+  "fields": false,
+  "id": "v2_q0.975_s4001",
+  "kappa": 0.03,
+  "kind": "ca",
+  "n_pairs": null,
+  "paths": false,
+  "seed": 4001
+ },
+ "state_hash": "ff0bff206d60c2a1b34e447670159ceb40f9aa22b56b2508c83cc6d671b0de68"
+}

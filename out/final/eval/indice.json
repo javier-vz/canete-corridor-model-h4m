@@ -1,0 +1,30 @@
+{
+ "firma_calculo": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "archivos": {
+  "tabla3_pesos.csv": "4757cb3064985c265bb0f6d3e844972b88027f57a307ffc4761c93ad4ffcc2b6",
+  "tabla4_T.csv": "771a7b3f516517fdd119d78f86e25aff53458e010fe5199c335c597346808c9f",
+  "tabla5_cuantil.csv": "3effdc1719696db190c4f4172be544d3020d08d714de816647a133bf67b6dda7",
+  "sensibilidades_por_semilla.csv": "b5694256a30e3d1c7cf223bec077a764ee138d6907b45fb0aea8b31758b21ed1",
+  "tabla6_ks.csv": "944c7d85a3a5ddbdaa1c41183ed5787c610975bae1183d5a8bc4a043da57e9c4",
+  "tabla8_fete.csv": "e30c13886954c18fca0e8add0af0a141b0bf930240293e70d653a7ca9102df58",
+  "tabla9_fete_presupuestos.csv": "e5becbaa9d0f0653cdd8c2ea88b7a72b863f298ff40fb74b30eb8ed0c886e724",
+  "tabla10_predictores.csv": "bd14a2cdde0848662eb8451fd1460ca88ed5dcdd9b13bd744ddd22300c459000",
+  "zonal_P2.csv": "f112eba74b665ca0f45a711ea209f85c0fb606fcdc4850cbea95091d89eead7a",
+  "zonas_prefijo.csv": "f5710363f0180244d8125f4f365e16d77a884b6590bc8892590d23818a6b0a71",
+  "tabla12_particiones.csv": "c8c2182f0696b677735bc1e573428dcecef2680998fba811f2be686954bbae58",
+  "kmeans100_resumen.csv": "2f0c765dd6e3dd54a3db7c8c672b089a9e3808014c4fce5831a69a2fa9c87094",
+  "captura_celda.csv": "4d197705254d3b12860ae6e775b20fd635099e6538db48f247b1a82fece1f218",
+  "captura_celda_resumen.csv": "0856e67f6290f55c8a8ebf8a2e189a3534be9b314b73ca6a70667bf5ead52124",
+  "captura_zonas.csv": "130a79e9146c635b26990511ea90ca2a1b4cf0338b6eb1324571716391cbccb4",
+  "tabla11_hidrologia.csv": "44a2664fe795fad2476fb78ffe9ac17b3c38cb62e5fa97d5aa4cf6704d2d3a5e",
+  "hidrologia_por_semilla.csv": "b4b87def2e2b38c69435e21fc4f6e366ec1a17e948da0e62607a655570da611b",
+  "pendiente_E4_H4m.csv": "2184e226ffa82449db4454f4df765c1aed15377842db23b578dfcb389156a3fb",
+  "normalizacion_E5.csv": "ff643a6ec7783231e0d82da052b85f9c26fbae02bd105cacf344d75d49ca80d6",
+  "descomposicion_L.csv": "2830a8a47f83a433e7f1e9d762b00782f4b911f329edff6e5de4036b0acffa62",
+  "solapamiento.csv": "a4f368c9ff648c61ac74b41f0ee013266d9a13f81b81b7b768795ade782860bb",
+  "barrido_S6.csv": "f4c393016077aec92872cedb1ac3ef49713efa919b229f3f76d68e14c5b569f2",
+  "cifras_texto.csv": "da45c46a5dc5fddd8eb6a9daff05a78bf82e54f5c003d7fb8a36bf85de15eb2e"
+ },
+ "procedimientos_sha256": "98ae09233f8f9c61f467c98c5a743997608fcc8261eec15aa06d1e73f78018e1",
+ "evaluate_sha256": "69324455cdb537d59897495289722cb6ad914309504381ba7b492fa02a41dadd"
+}

@@ -1,0 +1,76 @@
+id,descripcion,valor
+X1,attractors (S0),25.0
+X5,attractor pairs (S0),90.0
+X3a,river cells R (H1 exclusion),1020.0
+X3b,"river cells, % of Omega",7.952596288788398
+X3c,sites in river cells,4.0
+X3d,"sites in river cells, % of 84",4.761904761904762
+X3e,"attractor distance to river, min (m)",329.1051661394776
+X3f,"attractor distance to river, median (m)",500.8250822722745
+X3g,"attractor distance to river, max (m)",868.4699063419437
+X3h,attractors shared with v2,0.0
+X6a,"cheapest-path probability, min over pairs (seed 42)",0.25005330103767864
+X6b,"cheapest-path probability, max over pairs",0.2700246775965144
+X6c,pairs routed (seed 42),90.0
+X16,"path records (seed 42, canonical)",360.0
+X16b,path records (deterministic),360.0
+X8a,weights: mean AUC min,0.7906127841185132
+X8b,weights: mean AUC max,0.8292171496338817
+X8c,weights: mean rho20 min,0.645884410972235
+X8d,weights: mean rho20 max,0.6533083697190423
+X8e,T: mean AUC min,0.804912450513612
+X8f,T: mean AUC max,0.8357737067515751
+X8g,T: mean rho20 min,0.6018905813615251
+X8h,T: mean rho20 max,0.6533083697190423
+X8i,T: attractors min,24.0
+X8j,T: attractors max,26.0
+X8k,quantile: attractors min,22.0
+X8l,quantile: attractors max,25.0
+X8m,quantile: pairs min,80.0
+X8n,quantile: pairs max,90.0
+X8o,quantile: mean AUC min,0.8274323384981054
+X8p,quantile: mean AUC max,0.8300337217500928
+X9,rho20 seed 42 (P2),0.6533083697190423
+X12,median run time S2 here (s),65.72
+X15a,"LCC top-168 L, deterministic",158.0
+X15b,"LCC top-168 L, canonical seed 42",155.0
+X17a,AUC deterministic,0.8259234552398891
+X17b,AUC canonical seed 42,0.8291589120344418
+X17c,AUC S2 mean (30 seeds),0.8284441467163962
+X17d,AUC S2 sd,0.002186433862948243
+X18a,"overlap b=1, K=42",0.47619047619047616
+X18b,"overlap b=1, K=168",0.2976190476190476
+X18c,"overlap b=1, K=1260",0.11825396825396825
+X20a,zones with sites (n=20),9.0
+X20b,rho n=20,0.6533083697190423
+X20c,p n=20,0.0017871210984120802
+X20d,rho Lmax n=20,0.6046401957121944
+X20e,p Lmax n=20,0.004741796416692499
+X22a,rho n=30,0.448995409650163
+X22b,p n=30,0.012814598770637387
+X22c,rho n=40,0.46848155801510716
+X22d,p n=40,0.002297238934429987
+X22e,rho_loo n=20,0.5894317404308668
+X22f,p_loo n=20,0.007910672506282565
+X22g,rho_loo n=30,0.3755339752709059
+X22h,p_loo n=30,0.04469498363272141
+X22i,rho_loo n=40,0.4137157863216524
+X22j,p_loo n=40,0.008843214597232762
+X21a,top-1 zone area %,7.983782940901294
+X21b,top-1 zone sites,64.0
+X21c,top-1 lift,9.543154761904761
+X21d,top-3 zones area %,23.678465616716046
+X21e,top-3 sites,67.0
+X21f,top-3 lift,3.3685419508600276
+X21g,top-7 zones area %,47.060658038359584
+X21h,top-7 sites,79.0
+X21i,top-7 lift,1.998433999179526
+X21j,zones needed for 100 % of sites,14.0
+X21k,area of those zones %,76.32933104631218
+X27a,H4m attractors within 1 km of the 8 priority lines,11.0
+X27b,"their distance to the 8 lines, min (m)",390.35515057466756
+X27c,"their distance to the 8 lines, max (m)",601.5647130267213
+X27d,attractors that disappear when the 8 lines are excluded (B5),13.0
+X27e,attractors that appear when the 8 lines are excluded (B5),8.0
+X7a,sweep: min of configuration-mean AUC,0.8259234552398891
+X7b,sweep: max of configuration-mean AUC,0.8357922991830542

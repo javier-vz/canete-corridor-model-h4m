@@ -1,0 +1,45 @@
+# Multi-scale PPM analysis (Lewis 2024) -- MODEL V2 with river-buffer fix
+# Lower Canete Valley, 84 archaeological sites, 12,826-cell Omega
+# Canonical CA v2: eps=0.15, kappa=0.03, seed=42, river_buffer_m=125
+
+Null model (constant intensity): AIC = 2867.78 
+
+## Covariate: F 
+ radius_m      AIC delta_AIC_vs_null
+      250 2856.485          11.29056
+      500 2828.788          38.98799
+      750 2814.226          53.54934
+     1000 2799.480          68.29555
+     1500 2763.004         104.77199
+     2000 2726.188         141.58784
+     2750 2686.159         181.61684
+     3500 2664.160         203.61614
+     5000 2652.863         214.91240
+
+## Covariate: L 
+ radius_m      AIC delta_AIC_vs_null
+      250 2765.957          101.8183
+      500 2754.899          112.8768
+      750 2747.891          119.8844
+     1000 2740.263          127.5126
+     1500 2724.622          143.1542
+     2000 2713.176          154.6000
+     2750 2706.415          161.3608
+     3500 2708.144          159.6314
+     5000 2720.302          147.4738
+
+## Covariate: E 
+ radius_m      AIC delta_AIC_vs_null
+      250 2757.406          110.3701
+      500 2750.396          117.3798
+      750 2753.232          114.5438
+     1000 2755.633          112.1428
+     1500 2757.835          109.9406
+     2000 2758.568          109.2083
+     2750 2759.939          107.8366
+     3500 2762.303          105.4732
+     5000 2767.178          100.5976
+
+## Overall best model
+ covar radius_m      AIC deviance coef_slope
+     F     5000 2652.863 2648.863   7513.904

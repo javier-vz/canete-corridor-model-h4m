@@ -1,0 +1,57 @@
+{
+ "fecha": "2026-11-06 09:59:41",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "F_norm_sum_check": 1.0,
+  "auc": 0.8282180789440247,
+  "lcc_size": 156,
+  "m1": 0.9285714285714286,
+  "m2": 0.3826820098157908,
+  "m3": 0.002499174453752582,
+  "n_clusters": 4,
+  "n_threshold": 168
+ },
+ "n_attractors": 25,
+ "n_pairs": 90,
+ "npz_sha256": "6696f7e9d4fd89cbe33fd7102dbc54993f2382208dc3dacafe3a1e96deb9e6a5",
+ "runtime_s": 66.99,
+ "spec": {
+  "block": "S3",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.095,
+    0.19,
+    0.475,
+    0.24
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.92,
+   "rules": "H4m",
+   "slope": null
+  },
+  "cost": null,
+  "eps": 0.15,
+  "expect": [
+   25,
+   90
+  ],
+  "fields": true,
+  "id": "a_t_p20_s3000",
+  "kappa": 0.03,
+  "kind": "ca",
+  "n_pairs": null,
+  "paths": false,
+  "seed": 3000
+ },
+ "state_hash": "8cd36e94f1842728addf5cb34d3df213eeac1f991175c8248cf5261f1ddfb52a"
+}

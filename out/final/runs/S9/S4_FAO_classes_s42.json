@@ -1,0 +1,54 @@
+{
+ "fecha": "2026-11-06 09:48:13",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "F_norm_sum_check": 1.0,
+  "auc": 0.7970285744183091,
+  "lcc_size": 128,
+  "m1": 0.7619047619047619,
+  "m2": 0.8123491793535113,
+  "m3": 0.018869151290418974,
+  "n_clusters": 27,
+  "n_threshold": 168
+ },
+ "n_attractors": 29,
+ "n_pairs": 103,
+ "npz_sha256": "68f31c5820f9ede2f411f2a8bb6c0a3866ace82db2c7ad20db9334ef70679a7a",
+ "runtime_s": 34.93,
+ "spec": {
+  "block": "S9",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.1,
+    0.2,
+    0.5,
+    0.2
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.92,
+   "rules": "H4m",
+   "slope": "S4_FAO_classes"
+  },
+  "cost": null,
+  "eps": 0.15,
+  "expect": null,
+  "fields": true,
+  "id": "S4_FAO_classes_s42",
+  "kappa": 0.03,
+  "kind": "ca",
+  "n_pairs": null,
+  "paths": false,
+  "seed": 42
+ },
+ "state_hash": "6161bba8b1ac74a4a35de4c93f4b77e7b63a618c31037c9eb3bcd6a3f48ecc50"
+}

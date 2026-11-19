@@ -1,0 +1,38 @@
+{
+ "fecha": "2026-11-06 09:14:12",
+ "versiones": {
+  "python": "3.12.13",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "pandas": "3.0.5",
+  "networkx": "3.6.1",
+  "sistema": "Windows 11",
+  "procesador": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "nucleos_logicos": 16
+ },
+ "firma_paquete": "f7a44f525983f2f203484bdc0e75dc74c569bb54345cf4ae63c7d16b4a6e1b4e",
+ "archivos": {
+  "MANIFEST.sha256": "0731fd33661cd27dddb581ad471caacbbfb86861dbb87ff69271d4b544d40e1c",
+  "final_sweep_eps_kappa.py": "dffb12c3d23c648f9f96775a966b143925fd5b906944b6702332ac881680aa1c",
+  "ca_kernel_v2.py": "15d1409ae9d31bf5a97a4ac3725048514b38741444dd93ecd1d9d4f3d1566c41",
+  "final_h4m_state.py": "e46398b9db62dcc46d73535ed8a450144e18fec78313c583fea8980b5a43b3c0",
+  "datos/grilla_con_W_hidrica.csv": "da119a558980d831ef0c71f085e27eebc2410e51dfaf28dbb3003966c276f450",
+  "datos/celdas_fluviales_1020.csv": "d99e31226fb71bf22ddb519f860bf52960f143dc40e04303bb3085df0fd4b73f",
+  "datos/zonas_P2_n20.csv": "c72e32746a86a0229a500225e5df5b6810a8f72d872e6b3e6ab83bceda3f53bc",
+  "referencia/H4m_s42_referencia.npz": "99d720e9e9eee1b309ed05dfbe432012889d8c2387ed94413d67afdbca7bf9e8",
+  "referencia/huella_H4m.json": "b7a3b8775a714d93701dd1fd8889954e35cbddb317c0e976a3965b273047a292"
+ },
+ "segundos_por_corrida": 202.1,
+ "dif_max": {
+  "E": 1.1102230246251565e-16,
+  "c": 0.0,
+  "T": 0.0,
+  "F": 3.469446951953614e-18,
+  "L": 2.220446049250313e-16,
+  "AUC": 0.0,
+  "rho20": 0.0
+ },
+ "auc_s42": 0.8291589120344418,
+ "rho20_s42": 0.6533083697190423,
+ "fallas": []
+}

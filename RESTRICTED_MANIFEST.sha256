@@ -1,0 +1,11 @@
+# Files not included in the public repository: they give the location of the archaeological survey records or of the
+# site-labelled cells.
+# Restore them with tools/restore_restricted.py from an authorised bundle (README, Restricted data).
+da119a558980d831ef0c71f085e27eebc2410e51dfaf28dbb3003966c276f450  data/grilla_con_W_hidrica.csv
+7d03e51fee0da5c55ec54f62d50ab0ebf49592210fe35cc363b5ae83d9db1f81  data/ref/fields_canonical_v2_for_ppm.csv
+341c084045a966bbcd3f0e4846028fd162ee2eb37cf6598cb4f1a91375eba2ac  out/b6/ryzen/JCAA80_barrido_H4m_Ryzen.zip
+da119a558980d831ef0c71f085e27eebc2410e51dfaf28dbb3003966c276f450  out/b6/ryzen/barrido_H4m/datos/grilla_con_W_hidrica.csv
+1b1c8f2a1cb0384826538c5ee3ae0515a7f1c6e78d2739061d7a250be37f098f  out/final/ppm/fields_H4m_for_ppm.csv
+154d56c6b5e314c05af2113f7dc67c28eddc6787d99a2bd9c3ab5e6f116d68fa  out/final/qgis/sitios_84.gpkg
+57bdfcd3058fcf432a93bc2985599c734e5a055934247643f9cc582bd60fe2ef  out/rowmajor_sites.npy
+9577ca9f30d4981a20f201dcc8e5531a22e97c9f1565eed6107b55096f826710  out/state_v2_repro.pkl

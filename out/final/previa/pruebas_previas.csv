@@ -1,0 +1,38 @@
+test,ok,detail
+S0 identity and designs (test_final_h4m_state.py),True,ALL OK
+"S9 helper: min-max variant = S0 (attractors, pairs)",True,
+"S9 helper: E', c' of min-max variant = S0",True,
+runner: FETE job valid after writing,True,
+runner: NaN metric detected,True,
+runner: changed specification detected,True,
+runner: other code/data signature detected,True,
+"runner: S1 canonical = B4 H4m seed 42 (F, L, AUC)",True,AUC 0.829159 (66s)
+"runner: observer F rebuilt = kernel F; 90 pairs, 360 paths",True,"maxdiff 0.0e+00, records 90, paths 360"
+runner: S1 job valid (npz and paths hashes),True,
+runner: altered npz detected,True,
+Table 10 row 1-h (P2) reproduced,True,0.8496 / 0.6063
+Table 10 row T (P2) reproduced,True,0.8177 / 0.6533
+Table 10 row E (P2) reproduced,True,0.7563 / 0.6871
+"Table 10 row L v2: AUC 0.8078, rho20 P2 0.6376 (Phase A)",True,
+Sec. 4.4 numbers reproduced by the zonal code (v1 L = provenance of v8_11),True,
+Sec. 4.4 '100% capture with the top 15 zones (79.2%)' not reproducible from the stored fields,nota,v1 and v2 give 14 zones (76.3%); zones ranked 14 and 15 differ by 1.2e-04 in mean L (near-tie): the published count depends on that order
+Sec. 4.4 'rho_loo = 0.40 (p = 0.011) at n = 40' not reproducible from the stored fields,nota,v1 0.409 (p 0.0097); v2 0.395 (p 0.0127); same rule reproduces n = 20 and 30
+Table 12 code reproduces E3 metrics of the 12 partitions (v2 L),True,max diff 9.0e-17
+100 K-means n=20: median rho reproduces E3,True,0.5832
+100 K-means n=30: median rho reproduces E3,True,0.4564
+100 K-means n=40: median rho reproduces E3,True,0.4457
+"capture by cell reproduces B4 (H4m seed 42, 4 budgets)",True,
+capture by complete zones reproduces B4 (v2 seed 42),True,
+"Table 11 H4m: AUC, rho20, capture10 = B5",True,
+"Table 11 H4m-excl8: AUC, rho20, capture10 = B5",True,
+"Table 11 H4m-main: AUC, rho20, capture10 = B5",True,
+"Table 11 H1+H2m: AUC, rho20, capture10 = B5",True,
+buffered overlap code reproduces published 0.0714/0.0952/0.0968,True,"{'v1': [0.0714, 0.0952, 0.0968], 'v2': [0.0476, 0.0893, 0.0873]}"
+"LCC code = kernel run_one for v2 seed 42 (90, cleanroom)",True,"v1 69 (published 69), v2 90"
+"cheapest-path probability: one value per routed pair, within [1/4, 1] (weighting = kernel, see F rebuild test)",True,v2 seed 42: 0.2501-0.2618
+Sec. 3.3 'probability between 0.2500 and 0.2566 across the 91 pairs' not reproducible from the v2 records,nota,"v2 perturbed costs (the kernel's weighting) give 0.2501-0.2618; base costs give 0.2508-0.3190; v1 paths were not recorded, so the published range is probably from v1"
+"KS function: exact method, residual set 20 sites (v2 E)",True,"D 0.433637, p 6.2526e-04"
+E5 normalisation code reproduces Phase B (v2),True,
+PPM export reproduces the published v2 PPM input,True,
+R/spatstat here reproduces Table 7 (null 2867.8; F 157.9@3500; L 136.4@2750; E 110.0@2750),True,
+"E2-A A1 graph = kernel graph (least-cost path cost / 250 m, 5 pairs)",True,rel diff 1.4e-16

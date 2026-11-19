@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the article (preferred citation) and this release."
+type: software
+title: "canete-corridor-model: code and data of an unsupervised corridor-based model for archaeological prospection in the Lower Cañete Valley, Peru"
+authors:
+  - family-names: Vera Zúñiga
+    given-names: Javier
+    affiliation: Universidad Tecnológica del Perú
+  - family-names: Cornejo Meza
+    given-names: Dina Soledad
+    affiliation: Pontificia Universidad Católica del Perú
+version: "2.2.0-rc"
+license: MIT
+repository-code: "https://github.com/javier-vz/canete-corridor-model"
+keywords:
+  - archaeological prospection
+  - unsupervised modelling
+  - movement corridors
+  - least-cost path analysis
+  - Cañete
+  - Peru
+preferred-citation:
+  type: article
+  title: "An Unsupervised Corridor-Based Model for Archaeological Prospection in the Lower Cañete Valley, Peru"
+  authors:
+    - family-names: Cornejo Meza
+      given-names: Dina Soledad
+    - family-names: Vera Zúñiga
+      given-names: Javier
+  journal: "Journal of Computer Applications in Archaeology"
+  status: submitted

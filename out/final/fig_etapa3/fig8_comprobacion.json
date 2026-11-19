@@ -1,0 +1,46 @@
+{
+  "script": "code/b9_etapa3_fig8.py",
+  "frozen_function": "code/final_figures.py:fig8",
+  "frozen_function_sha256": "4291e4c4d96e4a3cd54818c5afe2c4fbd9cd64c68e24772ccbb44387721fc018",
+  "sources": {
+    "out/final/eval/zonas_prefijo.csv": "f5710363f0180244d8125f4f365e16d77a884b6590bc8892590d23818a6b0a71",
+    "out/final/eval/zonal_P2.csv": "f112eba74b665ca0f45a711ea209f85c0fb606fcdc4850cbea95091d89eead7a"
+  },
+  "legend_change": [
+    "Random expectation",
+    "Uniform-density reference"
+  ],
+  "frozen_png": "out/final/fig/fig8_captura_zonas.png",
+  "frozen_png_sha256": "84aac06e1700898881d85dc5ab4bd98ce5bdc014c63afbd2552efc86dfa5e9b4",
+  "frozen_png_reproduced_pixel_identical": true,
+  "size_px": [
+    1860,
+    1560
+  ],
+  "dpi": 300,
+  "differing_pixels": 26890,
+  "differing_pixels_outside_legend": 0,
+  "legend_box_px": {
+    "frozen": [
+      1263.2,
+      1081.8,
+      1761.5,
+      1349.6
+    ],
+    "new": [
+      1156.0,
+      1081.8,
+      1761.5,
+      1349.6
+    ]
+  },
+  "rho_in_legend": {
+    "20": 0.65,
+    "30": 0.45,
+    "40": 0.47
+  },
+  "outputs": {
+    "out/final/fig_etapa3/fig8_captura_zonas_ref_uniforme.png": "fb86b1f3674184e2b7aeb9142a3c3383ae12a363560b8cbffb038bad672b5e0b",
+    "out/final/fig_etapa3/fig8_captura_zonas_ref_uniforme.pdf": "b4e185471aa9dd4a43ff5c404cd4915fd31d427dbd39b8d0e6beb94310c5b960"
+  }
+}

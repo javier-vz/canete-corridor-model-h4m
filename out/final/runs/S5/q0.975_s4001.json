@@ -1,0 +1,57 @@
+{
+ "fecha": "2026-11-06 10:31:52",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "F_norm_sum_check": 1.0,
+  "auc": 0.8280265488710002,
+  "lcc_size": 154,
+  "m1": 0.9166666666666666,
+  "m2": 0.4037375132999158,
+  "m3": 0.00280413918942147,
+  "n_clusters": 4,
+  "n_threshold": 168
+ },
+ "n_attractors": 22,
+ "n_pairs": 80,
+ "npz_sha256": "98976a680a0b5489cfde09b08f514cf762a8390b546fa1c0c90b2f7891b41177",
+ "runtime_s": 37.1,
+ "spec": {
+  "block": "S5",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.1,
+    0.2,
+    0.5,
+    0.2
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.975,
+   "rules": "H4m",
+   "slope": null
+  },
+  "cost": null,
+  "eps": 0.15,
+  "expect": [
+   22,
+   80
+  ],
+  "fields": true,
+  "id": "q0.975_s4001",
+  "kappa": 0.03,
+  "kind": "ca",
+  "n_pairs": null,
+  "paths": false,
+  "seed": 4001
+ },
+ "state_hash": "11021a91ccb007e9043ed1039338accd5aade8c2f19ecafce5c6c5fd2d379323"
+}

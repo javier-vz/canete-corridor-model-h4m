@@ -1,0 +1,53 @@
+{
+ "fecha": "2026-11-06 10:56:02",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "auc": 0.814513868645873,
+  "lcc_size": 150,
+  "m1": 0.8928571428571429,
+  "m2": 0.2753164556962025,
+  "m3": 0.0009053806717277158,
+  "n_random_pairs": 200,
+  "n_successful_paths": 200,
+  "n_threshold": 168
+ },
+ "n_attractors": 25,
+ "n_pairs": 90,
+ "runtime_s": 3.5,
+ "spec": {
+  "block": "S7",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.1,
+    0.2,
+    0.5,
+    0.2
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.92,
+   "rules": "H4m",
+   "slope": null
+  },
+  "cost": "c",
+  "eps": 0.15,
+  "expect": null,
+  "fields": false,
+  "id": "fete_c_n200_s2000",
+  "kappa": 0.03,
+  "kind": "fete",
+  "n_pairs": 200,
+  "paths": false,
+  "seed": 2000
+ },
+ "state_hash": "0cf79387e7ef6621aa86462d8680071f915e186ff626f8e644d8b1a92af4e375"
+}

@@ -1,0 +1,5 @@
+site_set,field,D,p,method_used,n_sites,n_background
+all 84 sites,E',0.526063038619937,4.88513646589121e-22,exact,84,12742
+all 84 sites,L,0.5437697602977778,1.2218467550208271e-23,exact,84,12742
+residual (outside dominant P2 zone),E',0.3492151938471197,0.011097154950175759,exact,20,12742
+residual (outside dominant P2 zone),L,0.2957620467744467,0.048198743992692826,exact,20,12742

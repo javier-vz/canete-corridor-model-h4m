@@ -1,0 +1,30 @@
+     partition field  rho_count_s42  rho_density_s42  rho_field_area_s42  rho_count_30_min  rho_count_30_max  rho_density_30_min  rho_density_30_max
+    K-means P2 1 - h          0.606            0.583               0.657               NaN               NaN                 NaN                 NaN
+    K-means P2     T          0.653            0.624               0.624               NaN               NaN                 NaN                 NaN
+    K-means P2    E'          0.685            0.662               0.627               NaN               NaN                 NaN                 NaN
+    K-means P2     F          0.747            0.728               0.676             0.725             0.754               0.706               0.736
+    K-means P2     L          0.653            0.624               0.624             0.653             0.653               0.624               0.624
+ Ward-4 (rook) 1 - h          0.497            0.473               0.495               NaN               NaN                 NaN                 NaN
+ Ward-4 (rook)     T          0.417            0.376               0.529               NaN               NaN                 NaN                 NaN
+ Ward-4 (rook)    E'          0.506            0.478               0.499               NaN               NaN                 NaN                 NaN
+ Ward-4 (rook)     F          0.613            0.594               0.347             0.577             0.620               0.550               0.600
+ Ward-4 (rook)     L          0.443            0.401               0.537             0.443             0.443               0.401               0.401
+Ward-8 (queen) 1 - h          0.441            0.423               0.672               NaN               NaN                 NaN                 NaN
+Ward-8 (queen)     T          0.463            0.440               0.647               NaN               NaN                 NaN                 NaN
+Ward-8 (queen)    E'          0.484            0.465               0.659               NaN               NaN                 NaN                 NaN
+Ward-8 (queen)     F          0.567            0.548               0.682             0.527             0.605               0.502               0.586
+Ward-8 (queen)     L          0.471            0.451               0.645             0.471             0.471               0.451               0.451
+ SKATER (rook) 1 - h          0.353            0.320               0.117               NaN               NaN                 NaN                 NaN
+ SKATER (rook)     T          0.352            0.319               0.066               NaN               NaN                 NaN                 NaN
+ SKATER (rook)    E'          0.405            0.382               0.068               NaN               NaN                 NaN                 NaN
+ SKATER (rook)     F          0.555            0.535               0.279             0.515             0.555               0.495               0.535
+ SKATER (rook)     L          0.366            0.333               0.065             0.356             0.366               0.324               0.333
+
+                rho_area_count  rho_area_density  zones_with_sites area_km2_min_max
+partition                                                                          
+K-means P2               0.412             0.384                 9        19.2-71.2
+Ward-4 (rook)            0.144             0.079                 7        14.9-68.7
+Ward-8 (queen)           0.646             0.623                 8         8.3-83.1
+SKATER (rook)            0.112             0.092                10         6.2-79.6
+
+Controls against Table 10 and the ablation: OK

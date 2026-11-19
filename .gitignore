@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Outputs of re-runs (docs/reproduce.md)
+out/rerun/
+
+# Restricted data (RESTRICTED_MANIFEST.sha256): never commit them
+data/grilla_con_W_hidrica.csv
+data/ref/fields_canonical_v2_for_ppm.csv
+out/b6/ryzen/JCAA80_barrido_H4m_Ryzen.zip
+out/b6/ryzen/barrido_H4m/datos/grilla_con_W_hidrica.csv
+out/final/ppm/fields_H4m_for_ppm.csv
+out/final/qgis/sitios_84.gpkg
+out/rowmajor_sites.npy
+out/state_v2_repro.pkl
+restricted_bundle/
+
+# Site-location illustrations for controlled author review only
+paper/private/
+private_review/
+pre_paper_v3/

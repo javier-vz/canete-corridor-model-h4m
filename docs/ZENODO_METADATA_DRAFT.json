@@ -1,0 +1,32 @@
+{
+  "title": "canete-corridor-model v2.1.0: code and data of an unsupervised corridor-based model for archaeological prospection in the Lower Cañete Valley, Peru",
+  "upload_type": "software",
+  "version": "2.1.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Vera Zúñiga, Javier",
+      "affiliation": "Universidad Tecnológica del Perú"
+    },
+    {
+      "name": "Cornejo Meza, Dina Soledad",
+      "affiliation": "Pontificia Universidad Católica del Perú"
+    }
+  ],
+  "description": "Code, input data, stored runs and evaluation tables of the final configuration of the article 'An Unsupervised Corridor-Based Model for Archaeological Prospection in the Lower Cañete Valley, Peru' (Journal of Computer Applications in Archaeology, submitted), with scripts that verify them without new simulations. The locations of the archaeological survey records and of the site-labelled cells are not included (restricted data). Third-party data keep their own terms (THIRD_PARTY.md).",
+  "keywords": [
+    "archaeological prospection",
+    "unsupervised modelling",
+    "movement corridors",
+    "least-cost path analysis",
+    "Cañete",
+    "Peru"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/javier-vz/canete-corridor-model",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

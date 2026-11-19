@@ -1,0 +1,57 @@
+{
+ "fecha": "2026-11-06 10:35:45",
+ "firma": "9bd72e1a9c138a9201b8bfe14b5da1ca19f4dd16f7dde4fc404e0baab3b03432",
+ "metrics": {
+  "F_norm_sum_check": 0.9999999999999998,
+  "auc": 0.8280956865558969,
+  "lcc_size": 150,
+  "m1": 0.8928571428571429,
+  "m2": 0.37551947873454716,
+  "m3": 0.0024528324562269345,
+  "n_clusters": 4,
+  "n_threshold": 168
+ },
+ "n_attractors": 25,
+ "n_pairs": 90,
+ "npz_sha256": "6f9ecbc8815b63ec493ea012412c2b8baa8bd14e740c17ac989631eb0be5ec2a",
+ "runtime_s": 62.86,
+ "spec": {
+  "block": "S2",
+  "cfg": {
+   "T": [
+    0.65,
+    0.2,
+    5
+   ],
+   "a": [
+    0.1,
+    0.2,
+    0.5,
+    0.2
+   ],
+   "b": [
+    0.18,
+    0.36,
+    0.26,
+    0.2
+   ],
+   "q": 0.92,
+   "rules": "H4m",
+   "slope": null
+  },
+  "cost": null,
+  "eps": 0.15,
+  "expect": [
+   25,
+   90
+  ],
+  "fields": true,
+  "id": "canon_s2006",
+  "kappa": 0.03,
+  "kind": "ca",
+  "n_pairs": null,
+  "paths": false,
+  "seed": 2006
+ },
+ "state_hash": "0cf79387e7ef6621aa86462d8680071f915e186ff626f8e644d8b1a92af4e375"
+}

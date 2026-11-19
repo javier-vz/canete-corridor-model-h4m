@@ -1,0 +1,12 @@
+firma 9bd72e1a9c13 | bloques ['CTRL'] | trabajos 9: válidos 0, inválidos 0, faltan 9
+[   1/9] ok       CTRL/v2_a_w_m20_s3000  AUC=0.8176 185s  3.1 min, faltan ~25 min
+[   2/9] ok       CTRL/v2_a_w_m20_s3001  AUC=0.8163 186s  3.1 min, faltan ~11 min
+[   3/9] ok       CTRL/v2_a_w_m20_s3002  AUC=0.8193 188s  6.3 min, faltan ~13 min
+[   4/9] ok       CTRL/v2_r0.80_s5000  AUC=0.8093 203s  6.6 min, faltan ~8 min
+[   5/9] ok       CTRL/v2_r0.80_s5001  AUC=0.8111 231s  10.2 min, faltan ~8 min
+[   6/9] ok       CTRL/v2_r0.80_s5002  AUC=0.8148 220s  10.2 min, faltan ~5 min
+[   7/9] ok       CTRL/v2_q0.975_s4000  AUC=0.8196 238s  14.2 min, faltan ~4 min
+[   8/9] ok       CTRL/v2_q0.975_s4001  AUC=0.8188 240s  14.3 min, faltan ~2 min
+[   9/9] ok       CTRL/v2_q0.975_s4002  AUC=0.8216 111s  16.0 min, faltan ~0 min
+FIN: válidos 9/9, inválidos 0, faltan 0, errores 0 (16.0 min)
+exit 0

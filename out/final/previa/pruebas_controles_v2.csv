@@ -1,0 +1,13 @@
+test,ok,detail
+CTRL job valid: v2_a_w_m20_s3000,True,
+CTRL job valid: v2_a_w_m20_s3001,True,
+CTRL job valid: v2_a_w_m20_s3002,True,
+CTRL job valid: v2_r0.80_s5000,True,
+CTRL job valid: v2_r0.80_s5001,True,
+CTRL job valid: v2_r0.80_s5002,True,
+CTRL job valid: v2_q0.975_s4000,True,
+CTRL job valid: v2_q0.975_s4001,True,
+CTRL job valid: v2_q0.975_s4002,True,
+CTRL v2_a_w_m20: published mean ± sd reproduced,True,0.8177 ± 0.0015 (published 0.8177 ± 0.0015)
+CTRL v2_r0.80: published mean ± sd reproduced,True,0.8118 ± 0.0028 (published 0.8118 ± 0.0028)
+CTRL v2_q0.975: published mean ± sd reproduced,True,0.8200 ± 0.0014 (published 0.82 ± 0.0014)

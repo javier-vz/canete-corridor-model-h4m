@@ -1,0 +1,100 @@
+code for methods in class "Rcpp_SpatCategories" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatCategories" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatDataFrame" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatDataFrame" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatExtent" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatExtent" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatFactor" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatFactor" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatGraph" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatGraph" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatMessages" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatMessages" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatOptions" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatOptions" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRaster" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRaster" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRasterCollection" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRasterCollection" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRasterStack" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatRasterStack" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatSRS" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatSRS" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatTime_v" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatTime_v" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVector" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVector" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVectorCollection" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVectorCollection" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVectorProxy" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpatVectorProxy" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpExtent" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpExtent" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPoly" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPoly" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPolyPart" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPolyPart" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPolygons" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+code for methods in class "Rcpp_SpPolygons" was not checked for suspicious field assignments (recommended package 'codetools' not available?)
+[load] Reading fields_H4m_for_ppm.csv...
+[load] 12826 cells, 84 sites
+[window] Building observation window from valid cells...
+[window] Area: 791.2 km^2
+[ppp] Building point pattern of 84 sites...
+[ppp] 84 sites in window
+[raster] Rasterising F, L, E to 250 m grid...
+
+[scales] 9 scales: 250 500 750 1000 1500 2000 2750 3500 5000 m
+
+[fit] Covariate: F 
+  scale r = 250 m ... AIC = 2856.49 
+  scale r = 500 m ... AIC = 2828.79 
+  scale r = 750 m ... AIC = 2814.23 
+  scale r = 1000 m ... AIC = 2799.48 
+  scale r = 1500 m ... AIC = 2763 
+  scale r = 2000 m ... AIC = 2726.19 
+  scale r = 2750 m ... AIC = 2686.16 
+  scale r = 3500 m ... AIC = 2664.16 
+  scale r = 5000 m ... AIC = 2652.86 
+
+[fit] Covariate: L 
+  scale r = 250 m ... AIC = 2765.96 
+  scale r = 500 m ... AIC = 2754.9 
+  scale r = 750 m ... AIC = 2747.89 
+  scale r = 1000 m ... AIC = 2740.26 
+  scale r = 1500 m ... AIC = 2724.62 
+  scale r = 2000 m ... AIC = 2713.18 
+  scale r = 2750 m ... AIC = 2706.41 
+  scale r = 3500 m ... AIC = 2708.14 
+  scale r = 5000 m ... AIC = 2720.3 
+
+[fit] Covariate: E 
+  scale r = 250 m ... AIC = 2757.41 
+  scale r = 500 m ... AIC = 2750.4 
+  scale r = 750 m ... AIC = 2753.23 
+  scale r = 1000 m ... AIC = 2755.63 
+  scale r = 1500 m ... AIC = 2757.84 
+  scale r = 2000 m ... AIC = 2758.57 
+  scale r = 2750 m ... AIC = 2759.94 
+  scale r = 3500 m ... AIC = 2762.3 
+  scale r = 5000 m ... AIC = 2767.18 
+There were 27 warnings (use warnings() to see them)
+
+[null] Fitting null (constant intensity)...
+[null] AIC = 2867.78 
+
+=====================================================
+ SUMMARY: multi-scale PPM AIC (v2 model, river-fix applied)
+=====================================================
+
+  F:  best r = 5000 m, AIC = 2652.86, dAIC = 214.91
+
+  L:  best r = 2750 m, AIC = 2706.41, dAIC = 161.36
+
+  E:  best r = 500 m, AIC = 2750.40, dAIC = 117.38
+
+  OVERALL BEST: F @ r = 5000 m, AIC = 2652.86, dAIC = 214.91
+
+[done] Results saved to:
+       ppm_H4m_multi_scale_aic.csv
+       ppm_H4m_summary.txt

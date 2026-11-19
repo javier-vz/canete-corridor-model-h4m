@@ -1,0 +1,18 @@
+{
+ "eps": 0.36,
+ "kappa": 0.06,
+ "seed": 1001,
+ "lcc_size": 75,
+ "n_threshold": 168,
+ "m1": 0.44642857142857145,
+ "m2": 0.15414222755513143,
+ "m3": 0.0018358230967093808,
+ "auc": 0.8353775665029786,
+ "n_clusters": 7,
+ "F_norm_sum_check": 1.0,
+ "rho20_P2": 0.6533083697190423,
+ "n_attractors": 25,
+ "n_pairs": 90,
+ "runtime_s": 335.67,
+ "firma_paquete": "f7a44f525983f2f203484bdc0e75dc74c569bb54345cf4ae63c7d16b4a6e1b4e"
+}
